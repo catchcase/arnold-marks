@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               "Just Passing Time"
+tagline:             'The Collected Poems of Arnold Marks'
+description:         'These pages are dedicated to the written works of my grandfather, Arnold Marks.'
 url:                 'https://catchcase.github.io'
 baseurl:             '/arnold-marks'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Vincente Campisi
+  url:               https://github.com/catchcase
+  email:             catchcaseio@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
