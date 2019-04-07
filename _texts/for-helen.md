@@ -18,6 +18,6 @@ title: "For Helen"
 - is flooded with light each time we remember Helen.
 
 ------
-- Helen McCullough
-- November 2, 2010
+- *Helen McCullough*
+- *November 2, 2010*
 {:. style="text-align: center" indent-2}
